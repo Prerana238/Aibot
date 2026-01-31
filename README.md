@@ -1,3 +1,8 @@
+User can just chat with the Ai bot and can get an idea of which program will be suitable for them with all details.
+
+
+
+
 ## 🎥 Project Demo Video
 
 Watch the demo video here:  
